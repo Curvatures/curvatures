@@ -1,0 +1,9 @@
+Building Curvatures
+
+See doc/readme-qt.rst for instructions on building Curvatures QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Curvatures.
+
+See doc/build-*.txt for instructions on building Curvaturesd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Curvatures.
